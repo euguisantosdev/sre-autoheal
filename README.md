@@ -80,6 +80,15 @@ sre-autoheal/
     └── dashboard.png
 ```
 
+## Ver sem instalar nada
+
+🔗 **[Abrir o dashboard publicado](https://sre-autoheal-kshs3a6xoqumaxswedgjat.streamlit.app/)**
+
+O app gera o histórico fictício automaticamente na primeira execução, então
+o link acima já abre com os dados prontos — sem precisar clonar nada.
+
+![Screenshot do SRE Auto-Heal](screenshots/dashboard.png)
+
 ## Como rodar localmente
 
 Pré-requisito: Python 3.10+.
