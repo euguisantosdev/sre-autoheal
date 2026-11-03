@@ -1,8 +1,0 @@
-__pycache__/
-*.pyc
-.venv/
-.venv_teste/
-data/autoheal.db
-data/.gerando.lock
-.pytest_cache/
-.streamlit/secrets.toml
